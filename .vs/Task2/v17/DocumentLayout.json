@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\b-end.net\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|c:\\b-end.net\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|c:\\b-end.net\\task2\\task2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|solutionrelative:task2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|c:\\b-end.net\\task2\\task2\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|solutionrelative:task2\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|c:\\b-end.net\\task2\\task2\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|solutionrelative:task2\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|c:\\b-end.net\\task2\\task2\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|solutionrelative:task2\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|c:\\b-end.net\\task2\\task2\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE309798-4F12-4564-A0F1-2EB3D9F38550}|Task2\\Task2.csproj|solutionrelative:task2\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "C:\\b-end.net\\Task2\\Task2\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "Task2\\TrustAccount.cs",
+              "ToolTip": "C:\\b-end.net\\Task2\\Task2\\TrustAccount.cs",
+              "RelativeToolTip": "Task2\\TrustAccount.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:08:55.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\b-end.net\\Task2\\Task2\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "Task2\\CheckingAccount.cs",
+              "ToolTip": "C:\\b-end.net\\Task2\\Task2\\CheckingAccount.cs",
+              "RelativeToolTip": "Task2\\CheckingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:04:18.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\b-end.net\\Task2\\Task2\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Task2\\SavingsAccount.cs",
+              "ToolTip": "C:\\b-end.net\\Task2\\Task2\\SavingsAccount.cs",
+              "RelativeToolTip": "Task2\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:54:19.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "C:\\b-end.net\\Task2\\Task2\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "Task2\\AccountUtil.cs",
+              "ToolTip": "C:\\b-end.net\\Task2\\Task2\\AccountUtil.cs",
+              "RelativeToolTip": "Task2\\AccountUtil.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:27:46.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\b-end.net\\Task2\\Task2\\Account.cs",
+              "RelativeDocumentMoniker": "Task2\\Account.cs",
+              "ToolTip": "C:\\b-end.net\\Task2\\Task2\\Account.cs",
+              "RelativeToolTip": "Task2\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:25:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\b-end.net\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\b-end.net\\Task2\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:23:16.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
